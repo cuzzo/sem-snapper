@@ -1,0 +1,16 @@
+{
+  "name": "sem-snapper",
+  "version": "1.0.0",
+  "description": "Screenshot all SEM pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Yahn <yahn007@outlook.com>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mustache": "^2.3.0",
+    "nightmare": "^2.8.1"
+  }
+}
